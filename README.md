@@ -1,4 +1,4 @@
-# my_music
+# Music Player
 
 A Music  Application build using flutter
 
