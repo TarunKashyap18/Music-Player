@@ -1,6 +1,6 @@
 # Music Player
 
-A Music  Application build using flutter
+A Music App Template build using flutter
 
 ## Getting Started
 
